@@ -1,0 +1,4 @@
+# Bibliotecas nativas do Python (Standard Library)
+# Nao requer instalacao via pip, mas listadas para documentacao.
+# sqlite3
+# logging
