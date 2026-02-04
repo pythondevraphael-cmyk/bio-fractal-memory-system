@@ -1,0 +1,34 @@
+ID,Conteudo,ID_Pai,Camada
+1,Inteligencia Artificial,,0
+2,Machine Learning,1,1
+3,Deep Learning,1,1
+4,Neural Networks,2,2
+5,Processamento de Linguagem Natural,2,2
+6,Data Engineering,1,1
+7,Business Intelligence,1,1
+8,SQL Server,6,2
+9,Python ETL,6,2
+10,Airflow,6,2
+11,Spark,6,2
+12,Biologia,,0
+13,Primeira Lei de Mendel,12,1
+14,Proteinas e Aminoacidos,,0
+15,Glicose e Metabolismo,,0
+16,Acidos Nucleicos DNA e RNA,,0
+17,Lipidios e Membranas,,0
+18,Sintese Proteica Ribossomos,,0
+19,Primeira Lei de Mendel Segregacao,,0
+20,Segunda Lei de Mendel Independencia,,0
+21,Hereditariedade e Genes,,0
+22,Leis de Newton Inercia,,0
+23,Leis de Newton Dinamica,,0
+24,Leis de Newton Acao e Reacao,,0
+25,Primeira Lei da Termodinamica,,0
+26,Segunda Lei da Termodinamica,,0
+27,Entropia e Desordem,,0
+28,Ligacoes Ionicas,,0
+29,Ligacoes Covalentes,,0
+30,Estrutura Atomica Protons e Neutrons,,0
+31,Eletrosfera e Eletrons,,0
+32,Lei de Conservacao da Materia Lavoisier,,0
+33,Bioquimica Celular,,0
